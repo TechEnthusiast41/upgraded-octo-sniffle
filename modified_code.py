@@ -1418,3 +1418,5 @@ if __name__ == "__main__":
     
     # 启动主循环
     root.mainloop()
+    print("1")
+    
